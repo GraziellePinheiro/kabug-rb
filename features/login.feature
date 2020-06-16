@@ -1,6 +1,7 @@
 #Language: pt
 
 Funcionalidade: Login 
+
     Esquema do Cenario: Tentando logar
 
     Dado que acesso a página login
@@ -14,5 +15,5 @@ Funcionalidade: Login
     |email              | senha |
     |joao@yahoo.com     | abc123 |
     |                    | abc123 |
-    |joão@gmail.com     | 
+    |joao@gmail.com     | 
     |fulano%hotmail.com | asd123|
